@@ -1,4 +1,4 @@
-In this project I implemented machine learning algorithms in Python to accurately predict the results of a banks marketing campaign. This project demonstrates my ablity to utilize various libraries in Python to perform applied machine learning with high accuracy.
+In this project I implemented machine learning algorithms in Python to accurately predict the results of a banks' marketing campaign. This project demonstrates my ablity to utilize various libraries in Python to perform applied machine learning with high accuracy.
 
 ### Analysis
 
