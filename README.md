@@ -1,4 +1,6 @@
-In this project I implemented machine learning algorithms in Python to accurately predict the results of a bank's marketing campaign. This project demonstrates my ablity to utilize various libraries in Python to perform applied machine learning with high accuracy.
+In this project I implemented machine learning algorithms in Python to accurately predict the results of a bank's marketing campaign. This project demonstrates my ablity to utilize various libraries in Python to perform applied machine learning with high accuracy. 
+
+The data set used can be found here: https://www.kaggle.com/datasets/muhammedsal98/bank-marketing
 
 ### Analysis
 
